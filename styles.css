@@ -1,0 +1,18 @@
+
+/*.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+  outline: 0px !important;
+  background-color: white !important;
+  border-color: gray;
+}*/
+
+/*.btn:hover {
+    cursor: default;
+    background-color: white;
+    color: black;
+    border-color: gray;
+}*/
