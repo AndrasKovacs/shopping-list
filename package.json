@@ -1,11 +1,9 @@
 {
-  "name": "tetris",
+  "name": "shopping-list",
   "version": "1.0.0",
-  "description": "Small tetris game",
+  "description": "Small shopping list app",
   "repository": "",
-  "keywords": [
-    "game"
-  ],
+  "keywords": ["list"],
   "scripts": {
     "start": "webpack-dev-server --hot",
     "build": "webpack -p --optimize-minimize"
@@ -19,7 +17,6 @@
     "react": "^15.4.2",
     "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2"
-
   },
   "devDependencies": {
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
