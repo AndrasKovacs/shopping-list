@@ -1,5 +1,5 @@
 # shopping-list
-Minimal shopping list app as college course assignment , in JS
+Minimal shopping list app as college course assignment, in javascript with React, React-bootstrap and mobx.
 
 Currently, we only have two types of pages:
 
