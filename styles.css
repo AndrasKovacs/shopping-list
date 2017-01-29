@@ -1,18 +1,10 @@
 
-/*.btn:focus,
-.btn:active:focus,
-.btn.active:focus,
-.btn.focus,
-.btn:active.focus,
-.btn.active.focus {
-  outline: 0px !important;
-  background-color: white !important;
-  border-color: gray;
-}*/
+.entry:hover {
+  color: gray;
+  cursor: default;
+}
 
-/*.btn:hover {
-    cursor: default;
-    background-color: white;
-    color: black;
-    border-color: gray;
-}*/
+.category:hover {
+  color: gray;
+  cursor: default;
+}

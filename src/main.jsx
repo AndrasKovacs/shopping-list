@@ -1,7 +1,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {ListList} from './ListList.jsx';
+import {App} from './App.jsx';
 import {useStrict} from 'mobx';
 import {Provider} from 'mobx-react';
 import {Store} from './Store.jsx';
@@ -9,5 +9,5 @@ import {Store} from './Store.jsx';
 useStrict(true);
 
 ReactDOM.render(
-    <Provider store={new Store()}><ListList/></Provider>, 
+    <Provider store={new Store()}><App/></Provider>, 
     document.getElementById('app'));
